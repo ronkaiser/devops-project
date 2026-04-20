@@ -1,4 +1,4 @@
-# DevOps Projects Portfolio
+# DevOps Projects
 
 This repository contains a collection of real-world DevOps projects covering the full lifecycle of modern application delivery, from infrastructure provisioning to CI/CD, containerization, orchestration, and monitoring.
 
