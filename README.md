@@ -26,3 +26,7 @@ Each project focuses on practical scenarios such as:
 ## Goal
 
 The goal of this repository is to showcase production-oriented DevOps workflows and best practices that can be applied in real-world environments.
+
+## Modules
+
+- **Module 5 - Cloud & Infrastructure as Service Basics:** [devops-05-cloud-digitalocean](https://github.com/ronkaiser/devops-05-cloud-digitalocean.git)
