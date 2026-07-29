@@ -33,3 +33,4 @@ The goal of this repository is to showcase production-oriented DevOps workflows 
 - **Module 6 - Artifact Repository Manager with Nexus:** [devops-06-artifact-repository-nexus](https://github.com/ronkaiser/devops-06-artifact-repository-nexus.git)
 - **Module 7 - Containers with Docker:** [devops-07-containers-docker](https://github.com/ronkaiser/devops-07-containers-docker.git)
 - **Module 8 - Build Automation & CI/CD with Jenkins:** [devops-08-automation-ci-cd-with-jenkins](https://github.com/ronkaiser/devops-08-automation-ci-cd-with-jenkins.git)
+- **Module 9 - AWS Services:** [devops-09-aws-services](https://github.com/ronkaiser/devops-09-aws-services.git)
